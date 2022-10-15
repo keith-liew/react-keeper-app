@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./App";
+import App from "./components/App";
 
 //1. Create a new React app.
 //2. Create a App.jsx component.
