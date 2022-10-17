@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-keeper-app/static/js/main.2bf365d2.js",
+    "index.html": "/react-keeper-app/index.html",
+    "main.2bf365d2.js.map": "/react-keeper-app/static/js/main.2bf365d2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2bf365d2.js"
+  ]
+}
