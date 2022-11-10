@@ -1,5 +1,5 @@
 # react-keeper-app
-> A simple online secret whisper website implemented certain authentication method. 
+> A simple online note keeper app. 
 > Live demo [_here_](https://keith-liew.github.io/react-keeper-app/). 
 
 
